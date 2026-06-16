@@ -204,7 +204,7 @@ GitHub:
 https://github.com/Mdshahnawaz9
 
 LinkedIn:
-https://www.linkedin.com/in/mohammed-shahnawaz-a0a098282
+https://www.linkedin.com/in/mohammed-shahnawaz0965
 
 ---
 
