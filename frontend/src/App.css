@@ -266,14 +266,14 @@ body{
   color: #92400e;
 }
 
-.dark .mark{
+.dark mark{
   background: #4f46e5;
   color: white;
   padding: 2px 5px;
   border-radius: 5px;
 }
 
-.mark{
+mark{
   background: #4f46e5;
   color: white;
   padding: 2px 5px;
@@ -400,4 +400,16 @@ body.dark-mode{
 
 .dark .suggestion-item:hover{
   transform: translateX(5px);
+}
+
+.header h1,
+.task-title,
+.stat-card h2{
+  color: #111827;
+}
+
+.dark .header h1,
+.dark .task-title,
+.dark .stat-card h2{
+  color: white;
 }
